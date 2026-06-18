@@ -17,13 +17,13 @@ To install **Newsletter  POP window**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Nishant-Hacker/newsletter-popup.git
+sudo git clone https://github.com/Nishant-Af/newsletter-popup.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Nishant-Hacker/newsletter-popup.git
+git clone https://github.com/Nishant-Af/newsletter-popup.git
 ```
 
 
